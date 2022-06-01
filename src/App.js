@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          \SWUMR 
+          \ SWUMR 
          <br></br> <code> pronounced </code> like summer
         </p>
         <a
