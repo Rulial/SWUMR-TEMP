@@ -7,9 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          \ SWUMR 
-         <br></br> <code> pronounced </code> like summer
-        </p>
+          SWUMR </p>
+         <code> \ pronounced like summer </code>
+        
+        <p>DEX</p>
         <a
           className="App-link"
           href="https://swumr.xyz"
