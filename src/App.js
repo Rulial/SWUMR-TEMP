@@ -19,14 +19,14 @@ function App() {
         >
           TECHNICAL PAPER
         </a>
-        <a
+       <p> <a
           className="App-link"
           href="https://path-integral.com"
           target="_blank"
           rel="noopener noreferrer"
         >
         PATH INTEGRAL
-        </a>
+        </a> </p>
       </header>
     </div>
   );
