@@ -17,7 +17,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          WHITE PAPER
+          TECHNICAL PAPER
+        </a>
+        <a
+          className="App-link"
+          href="https://path-integral.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        PATH INTEGRAL
         </a>
       </header>
     </div>
