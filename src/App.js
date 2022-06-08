@@ -10,7 +10,7 @@ function App() {
           SWUMR </p>
          <code> \ pronounced like summer </code>
         
-        <p>DEX
+        <p>
         <a
           className="App-link"
           href="https://pathintegral.substack.com/p/swumr-pi0-protocol?sd=pf"
@@ -25,7 +25,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        PATH INTEGRAL
+        PI0
         </a> </p>
       </header>
     </div>
