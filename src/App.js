@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+n import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <p>DEX</p>
         <a
           className="App-link"
-          href="https://swumr.xyz"
+          href="https://pathintegral.substack.com/p/swumr-pi0-protocol?sd=pf"
           target="_blank"
           rel="noopener noreferrer"
         >
